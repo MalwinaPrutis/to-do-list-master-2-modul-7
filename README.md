@@ -6,7 +6,9 @@ The "To-Do List" application is a simple yet functional task list that allows us
 ![Alt Text](./images/To%20do%20list.gif)
 
 ## Demo
-https://malwinaprutis.github.io/to-do-list-master/
+
+https://malwinaprutis.github.io/to-do-list-master-2-modul-7/
+
 ## Technologies
 
   - HTML
